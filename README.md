@@ -4,15 +4,17 @@
 Estudante de Engenharia de Software, com formação técnica em Desenvolvimento de Sistemas e experiência prática em projetos acadêmicos e pessoais voltados ao desenvolvimento de software.
 
 ## Tecnologias
+Tecnologias que já tive a experiência de usar:
 - Python
 - MySQL
 - C#
 - GitHub
-- ESP32
+- ESP32/C++
 - PHP
 - React Native
 - Javascript
 - HTML/CSS
+  
 
 
 ## Experiência prática (projetos)

@@ -12,6 +12,7 @@ Estudante de Engenharia de Software, com formação técnica em Desenvolvimento 
 - PHP
 - React Native
 - Javascript
+- HTML/CSS
 
 
 ## Experiência prática (projetos)

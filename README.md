@@ -41,6 +41,7 @@ Ferramentas que já tive contato
 | 📁 Projeto | 💡 Descrição | 🛠️ Tecnologia |
 | --- | --- | --- |
 | [**Printly**](https://github.com/Isabelle-12/Printly) | Conecta quem precisa imprimir a quem oferece serviços de impressão. | HTML/CSS, JS, PHP, MySQL, XAMPP |
+| [**EsperaZero**](https://github.com/PaulaMPontes/EsperaZero_desktop_projeto) | Sistema de gerenciamento de filas de espera para atendimento em UPA, desenvolvido como projeto de TCC. | C# (.NET), MYSQL |
 
 
 <div align="center">

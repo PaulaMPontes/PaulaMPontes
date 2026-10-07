@@ -4,6 +4,7 @@
 ## Olá mundo, eu sou Paula Pontes👋
 
 🎓 Cursando Engenharia de Software na PUCPR  
+🎓 Técnica em Desenvolvimento de Sistemas
 💻 Meu foco é desenvolvimento web.
 ☁️ Estudando Cloud (AWS)
 
@@ -37,17 +38,9 @@ Ferramentas que já tive contato
 
 ## 📁 Projetos
 
-📁 Projeto
-
-💡 Descrição
-
-🛠️ Tecnologia
-
-[**Printly**](https://github.com/Isabelle-12/Printly)
-
-Conecta quem precisa imprimir a quem oferece serviços de impressão.
-
-HTML/CSS, JS, PHP, MySQL, XAMPP
+| 📁 Projeto | 💡 Descrição | 🛠️ Tecnologia |
+| --- | --- | --- |
+| [**Printly**](https://github.com/Isabelle-12/Printly) | Conecta quem precisa imprimir a quem oferece serviços de impressão. | HTML/CSS, JS, PHP, MySQL, XAMPP |
 
 
 <div align="center">

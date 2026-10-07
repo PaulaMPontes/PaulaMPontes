@@ -1,48 +1,59 @@
-# Olá! Eu sou a Paula Pontes 👋
 
-🎓 Estudante de Engenharia de Software  
-💻 Desenvolvedora em formação  
-📍 Curitiba, PR
+<div align="center">
 
-Atualmente estudo Engenharia de Software e desenvolvo projetos para colocar em prática conceitos de programação, desenvolvimento web, orientação a objetos, bancos de dados e engenharia de software.
+## Olá mundo, eu sou Paula Pontes👋
 
-## 🛠️ Tecnologias
+🎓 Cursando Engenharia de Software na PUCPR  
+💻 Meu foco é desenvolvimento web.
+☁️ Estudando Cloud (AWS)
 
-**Linguagens**
-- C#
-- PHP
-- Java
-- JavaScript
-- SQL
 
-**Web**
-- HTML
-- CSS
-- Bootstrap
+## Minha stack 🧑‍💻
 
-**Banco de Dados**
-- PostgreSQL
-- SQL Server
+Ferramentas que já tive contato
 
-**Estudando**
-- React
-- React Native
-- MongoDB
+**Linguagens**  
+<img src="https://skillicons.dev/icons?i=dotnet,js,php,python,java" alt="Linguagens" />
 
-## 📌 Projetos
+**Web e frameworks**  
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,laravel,dotnet,bootstrap,tailwind" alt="Web e frameworks" />
 
-🔹 **CRM** — Sistema web desenvolvido com PHP, PostgreSQL, JavaScript, HTML e CSS.
+**Bancos de dados**  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Bancos de dados" />
 
-🔹 **Projetos acadêmicos** — Desenvolvimento de aplicações utilizando Java, Orientação a Objetos, Design Patterns, Estruturas de Dados e testes de software.
+**Ferramentas e design**  
+<img src="https://skillicons.dev/icons?i=git,github,figma,notion" alt="Ferramentas e design" />
 
-## 📚 Atualmente
+**Hardware e sistemas**  
+<img src="https://skillicons.dev/icons?i=arduino,kali" alt="Hardware e sistemas" />
 
-- Engenharia de Software
-- Desenvolvimento Web
-- Programação Orientada a Objetos
-- Banco de Dados
-- Engenharia e Testes de Software
 
-## 🔗 Onde me encontrar
+## GitHub stats 📊
 
-[LinkedIn](https://www.linkedin.com/in/paula-pontes05/) • [GitHub](https://github.com/PaulaMPontes)
+### Top langs 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMPontes&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" alt="Linguagens mais usadas" /> </div>
+
+
+## 📁 Projetos
+
+📁 Projeto
+
+💡 Descrição
+
+🛠️ Tecnologia
+
+[**Printly**](https://github.com/Isabelle-12/Printly)
+
+Conecta quem precisa imprimir a quem oferece serviços de impressão.
+
+HTML/CSS, JS, PHP, MySQL, XAMPP
+
+
+<div align="center">
+
+## Você pode me encontrar em 
+
+<a href="https://www.linkedin.com/in/paula-pontes05"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a> <a href="mailto:paulacmp07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
+
+</div>

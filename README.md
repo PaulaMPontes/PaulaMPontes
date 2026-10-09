@@ -48,7 +48,7 @@ Ferramentas que já tive contato
 
 ## Você pode me encontrar em 
 
-<a href="https://www.linkedin.com/in/paula-pontes05"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a> <a href="mailto:paulacmp07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a><a href="https://paulampontes.github.io/portfolio_dev/">![Portfolio](https://shields.io)</a>
+<a href="https://www.linkedin.com/in/paula-pontes05"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a> <a href="mailto:paulacmp07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>[![](https://img.shields.io/badge/paulampontes.github.io-171717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://paulampontes.github.io/portfolio_dev/)
 
 
 </div>

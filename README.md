@@ -33,7 +33,7 @@ Ferramentas que já tive contato
 
 ### Top langs 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMPontes&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" alt="Linguagens mais usadas" /> </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMPontes&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" alt="Linguagens mais usadas"/> </div>
 
 
 ## 📁 Projetos

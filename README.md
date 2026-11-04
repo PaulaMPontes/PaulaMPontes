@@ -34,7 +34,7 @@ Ferramentas que já tive contato
 ### Top langs 
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulaMPPontes&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulaMPontes&theme=tokyonight"
   alt="Linguagens por repositório"
 />
 ## 📁 Projetos
